@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <NetworkVersion>ED00009</NetworkVersion>
+  <NetworkCountry>CNINA</NetworkCountry>
+  <NetworkCountryISO>CN</NetworkCountryISO>
+  <NetworkCode>CHC</NetworkCode>
+  <FeatureSet>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_GPS_ConfigAgnssProtocol>14</CscFeature_GPS_ConfigAgnssProtocol>
+    <CscFeature_GPS_ConfigAgpsMode>15</CscFeature_GPS_ConfigAgpsMode>
+    <CscFeature_GPS_ConfigAgpsSetting>KOO</CscFeature_GPS_ConfigAgpsSetting>
+    <CscFeature_GPS_ConfigExceptionMaskForAGNSS>7</CscFeature_GPS_ConfigExceptionMaskForAGNSS>
+    <CscFeature_GPS_ConfigLppProfile>3</CscFeature_GPS_ConfigLppProfile>
+    <CscFeature_Message_DisableMenuSmsInputMode>TRUE</CscFeature_Message_DisableMenuSmsInputMode>
+    <CscFeature_RIL_CallModifyRssiThreshole>-60,-65,-70,-75,-80,-85,-90,-95,-100,-102,-104,-107,-108,-114,-118,-123</CscFeature_RIL_CallModifyRssiThreshole>
+    <CscFeature_RIL_ConfigGlobalModuleType>LTE</CscFeature_RIL_ConfigGlobalModuleType>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>CHC-CHC-GSM-CHN</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_DataPrefDataTechSnapShot>TRUE</CscFeature_RIL_DataPrefDataTechSnapShot>
+    <CscFeature_RIL_Display4gPlusIconBandwidth>0</CscFeature_RIL_Display4gPlusIconBandwidth>
+    <CscFeature_RIL_DisplayAntennaLimited>TRUE</CscFeature_RIL_DisplayAntennaLimited>
+    <CscFeature_RIL_E911RoutingPolicy>auto</CscFeature_RIL_E911RoutingPolicy>
+    <CscFeature_RIL_GcfSor>TRUE</CscFeature_RIL_GcfSor>
+    <CscFeature_RIL_STKHandlingSendSMSbyAP>TRUE</CscFeature_RIL_STKHandlingSendSMSbyAP>
+    <CscFeature_RIL_SetNetworkTypeWhenRadioOff>TRUE</CscFeature_RIL_SetNetworkTypeWhenRadioOff>
+    <CscFeature_RIL_SignalstrengthPolicy>1</CscFeature_RIL_SignalstrengthPolicy>
+    <CscFeature_RIL_SupportQcomCrossMapping>FALSE</CscFeature_RIL_SupportQcomCrossMapping>
+    <CscFeature_RIL_SupportRegistrationLocationInfo>TRUE</CscFeature_RIL_SupportRegistrationLocationInfo>
+    <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+    <CscFeature_RIL_UseRatInfoDuringPlmnSelection>TRUE</CscFeature_RIL_UseRatInfoDuringPlmnSelection>
+    <CscFeature_Setting_DisableNetworkMode>NONE</CscFeature_Setting_DisableNetworkMode>
+    <CscFeature_VoiceCall_ConfigNetworkList>NetworkModeInChn</CscFeature_VoiceCall_ConfigNetworkList>
+    <CscFeature_VoiceCall_ConfigOpStyleForEmergencyDialCall>STATE_UPDATE_AFTER_DIAL</CscFeature_VoiceCall_ConfigOpStyleForEmergencyDialCall>
+    <CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>voltesettingscommon,voltesettingCHN,support_hvolte_solution_ctc,support_volte_ctc_spec_2019</CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForNetworkSetting>SupportSoftSim</CscFeature_VoiceCall_ConfigOpStyleForNetworkSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForRoaming>PNL</CscFeature_VoiceCall_ConfigOpStyleForRoaming>
+    <CscFeature_VoiceCall_ConfigOpStyleMobileNetworkSettingMenu>-cdmasubscription,-cdmasystemselect,+preferrednetworks,+sroaming,+datapreferduringcalling,+ltefallbackmode_default_true,+autoSwitch5gAndLte,+networkstatus,-voltecall,+autoSwitchNr5gMode</CscFeature_VoiceCall_ConfigOpStyleMobileNetworkSettingMenu>
+  </FeatureSet>
+</SamsungMobileFeature>

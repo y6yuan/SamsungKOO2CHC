@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.samsung.android.pushservice">
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.ACCESS_NOTIFICATIONS"/>
+    </privapp-permissions>
+</permissions>

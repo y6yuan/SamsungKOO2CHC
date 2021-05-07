@@ -1,0 +1,8 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+
+ro.config.tima=0
+ro.config.iccc_version=iccc_disabled
+wlan.wfd.hdcp=disable
