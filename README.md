@@ -2,6 +2,7 @@
 Samsung KOO firmware China Localization
 
 ## Features
+* SmartManager CN
 * App lock
 * PhoneCall Firewall
 * Networkspeed Indicator
@@ -13,6 +14,7 @@ Samsung KOO firmware China Localization
 * PushService CN
 * Bixby Touch
 * TencentSecurityWifi
+* Samsung Health Fix
 
 ## Debloat List
 * Korea Apps 
