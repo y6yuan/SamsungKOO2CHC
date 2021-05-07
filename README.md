@@ -1,5 +1,5 @@
 # SamsungKOO2CHC
-Samsung KOO firmware China Localization
+Samsung KOO firmware China Localization. Test on Samsung S20 Ultra (sm-g988n)
 
 ## Features
 * SmartManager CN
