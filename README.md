@@ -24,5 +24,6 @@ Samsung KOO firmware China Localization
 * ...
 
 ## Credits
+- [Orphee](https://forum.xda-developers.com/t/magisk-module-exynos-snapdragon-test-decoded_csc_features_files-esim-support.4082445/) - Decoded_CSC_Features_Files Esim Support
 - [nucked](https://github.com/nucked) - Samsung firmware China localization
 - [topjohnwu](https://github.com/topjohnwu) - Creator of Magisk
