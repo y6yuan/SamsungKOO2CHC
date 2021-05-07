@@ -20,7 +20,7 @@ Samsung KOO firmware China Localization
 * SmartCallProvider
 * HiyaService
 * Samsung Pass
-* AutoFramework
+* AuthFramework
 * ...
 
 ## Credits
