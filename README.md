@@ -24,4 +24,5 @@ Samsung KOO firmware China Localization
 * ...
 
 ## Credits
-- [nucked](https://github.com/nucked/Samsung-firmware-China-localization) - Samsung firmware China localization
+- [nucked](https://github.com/nucked) - Samsung firmware China localization
+- [topjohnwu](https://github.com/topjohnwu) - Creator of Magisk
