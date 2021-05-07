@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SamsungMobileFeature>
   <Version>ED00009</Version>
-  <Country>CHINA</Country>
-  <CountryISO>CN</CountryISO>
-  <SalesCode>CHC</SalesCode>
+  <Country>KOREA, REPUBLIC OF</Country>
+  <CountryISO>KR</CountryISO>
+  <SalesCode>KOO</SalesCode>
   <FeatureSet>
     <CscFeature_BT_ConfigNetAccessTypeForPANNAP>OTHER</CscFeature_BT_ConfigNetAccessTypeForPANNAP>
     <CscFeature_BT_ConfigNum1DialOperation>SPEEDDIAL</CscFeature_BT_ConfigNum1DialOperation>
@@ -209,5 +209,6 @@
     <CscFeature_Wifi_ConfigSecureSvcIntegration>TencentSecurityWiFi</CscFeature_Wifi_ConfigSecureSvcIntegration>
     <CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>TRUE</CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>
     <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_SmartManager_ConfigSubFeatures>applock</CscFeature_SmartManager_ConfigSubFeatures>
   </FeatureSet>
 </SamsungMobileFeature>

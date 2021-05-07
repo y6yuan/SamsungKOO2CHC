@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SamsungMobileFeature>
   <NetworkVersion>ED00009</NetworkVersion>
-  <NetworkCountry>CNINA</NetworkCountry>
-  <NetworkCountryISO>CN</NetworkCountryISO>
-  <NetworkCode>CHC</NetworkCode>
+  <NetworkCountry>KOREA, REPUBLIC OF</NetworkCountry>
+  <NetworkCountryISO>KR</NetworkCountryISO>
+  <NetworkCode>KOO</NetworkCode>
   <FeatureSet>
     <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
     <CscFeature_GPS_ConfigAgnssProtocol>14</CscFeature_GPS_ConfigAgnssProtocol>
