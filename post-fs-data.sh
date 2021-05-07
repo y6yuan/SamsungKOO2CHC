@@ -24,7 +24,7 @@ sed -i '/<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>/d' $M
 sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>com.samsung.android.devicesecurity.tcm<\/SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>' $MODDIR/system/vendor/etc/floating_feature.xml
 
 
-prism
+#prism
 mkdir -p $MODDIR/prism_new
 cp -afr /prism/etc $MODDIR/prism_new
 sed -i '/AppLock.apk/d' $MODDIR/prism_new/etc/carriers/single/KOO/enforceskippingpackages.txt
