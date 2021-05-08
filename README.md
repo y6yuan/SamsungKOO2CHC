@@ -2,6 +2,7 @@
 Samsung KOO firmware China Localization. Test on Samsung S20 Ultra (sm-g988n)
 
 ## Features
+* SmartManager CN
 * App lock
 * PhoneCall Firewall
 * Networkspeed Indicator
@@ -13,6 +14,7 @@ Samsung KOO firmware China Localization. Test on Samsung S20 Ultra (sm-g988n)
 * PushService CN
 * Bixby Touch
 * TencentSecurityWifi
+* Samsung Health Fix
 
 ## Debloat List
 * Korea Apps 
