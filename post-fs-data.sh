@@ -16,12 +16,12 @@ sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_COMMON_SUPPORT_BIXBY_
 sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SETTINGS_SUPPORT_AUTO_POWER_ON_OFF>TRUE<\/SEC_FLOATING_FEATURE_SETTINGS_SUPPORT_AUTO_POWER_ON_OFF>' $MODDIR/system/vendor/etc/floating_feature.xml
 
 #SmartManager CN
-#sed -i '/<SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>/d' $MODDIR/system/vendor/etc/floating_feature.xml
-#sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>com.samsung.android.sm_cn<\/SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>' $MODDIR/system/vendor/etc/floating_feature.xml
+sed -i '/<SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>/d' $MODDIR/system/vendor/etc/floating_feature.xml
+sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>com.samsung.android.sm_cn<\/SEC_FLOATING_FEATURE_SMARTMANAGER_CONFIG_PACKAGE_NAME>' $MODDIR/system/vendor/etc/floating_feature.xml
 
 #DeviceMonitor CN
-#sed -i '/<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>/d' $MODDIR/system/vendor/etc/floating_feature.xml
-#sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>com.samsung.android.devicesecurity.tcm<\/SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>' $MODDIR/system/vendor/etc/floating_feature.xml
+sed -i '/<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>/d' $MODDIR/system/vendor/etc/floating_feature.xml
+sed -i '/<\/SecFloatingFeatureSet>/i\<SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>com.samsung.android.devicesecurity.tcm<\/SEC_FLOATING_FEATURE_SECURITY_CONFIG_DEVICEMONITOR_PACKAGE_NAME>' $MODDIR/system/vendor/etc/floating_feature.xml
 
 
 #prism
